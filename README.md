@@ -16,7 +16,7 @@
 Not uygulaması
 
 ## Genel Bilgi
-Alıp kullanlayıp kullanırsın
+Alıp klonlayıp kullanabilirsiniz.
 
 ## Kullanılan Teknolojiler
 - HTML
