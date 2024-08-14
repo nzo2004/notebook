@@ -3,7 +3,7 @@
 > JS gelişmek için yaptım
 
 ## İçerik
-- [Weather App](#notebook-app)
+- [Note App](#notebook-app)
   - [İçerik](#i̇çerik)
   - [Genel Bilgi](#genel-bilgi)
   - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
